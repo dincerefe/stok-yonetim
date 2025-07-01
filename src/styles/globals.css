@@ -1,0 +1,13 @@
+/* Dosya Yolu: src/styles/globals.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  HATA AYIKLAMA TESTİ:
+  Eğer sayfanın etrafında kırmızı bir çerçeve görüyorsanız,
+  bu CSS dosyasının yüklendiği ancak Tailwind direktiflerinin
+  düzgün işlenmediği anlamına gelir.
+  Eğer kırmızı çerçeve görünmüyorsa, bu dosya hiç yüklenmiyor demektir.
+*/
